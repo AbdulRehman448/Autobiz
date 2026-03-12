@@ -10,12 +10,14 @@ AutoBiz demonstrates how automation can replace manual tasks like:
 - sending confirmation emails
 - notifying internal teams
 - managing leads
-- 
+
 The system uses workflow automation to handle these processes automatically.
 
 ## Weekly Progress
 
 ### Week 1 — Foundations of Automation
+See the report
+https://github.com/AbdulRehman448/Autobiz/commit/a8272f458d3947a23694c7a87e13f2d163d7d2ae
 
 **What I learned**
 
