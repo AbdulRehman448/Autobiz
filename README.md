@@ -1,4 +1,4 @@
-# AutoBiz-automation
+# AutoBiz-Automation
 AutoBiz is a business workflow automation project built using n8n.  
 The goal of this project is to automate repetitive business tasks such as collecting customer leads, sending responses, and notifying teams automatically.
 
@@ -17,7 +17,7 @@ The system uses workflow automation to handle these processes automatically.
 
 ### Week 1 — Foundations of Automation
 See the report
-https://github.com/AbdulRehman448/Autobiz/commit/a8272f458d3947a23694c7a87e13f2d163d7d2ae
+https://github.com/AbdulRehman448/Autobiz/blob/main/Week_1.pdf
 
 **What I learned**
 
